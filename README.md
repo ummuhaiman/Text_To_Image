@@ -48,3 +48,5 @@ Code Explanation
     index.html: The main HTML file with a text input and button for generating an image.
     style.css: Provides basic styling for the UI elements.
     script.js: JavaScript code that calls the Hugging Face API and displays the generated image.
+
+https://github.com/user-attachments/assets/e3c53ef2-5bc1-4e4a-bc0c-0fa30f37f392
