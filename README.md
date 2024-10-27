@@ -50,4 +50,4 @@ Code Explanation
     script.js: JavaScript code that calls the Hugging Face API and displays the generated image.
     
 ![ai_img](https://github.com/user-attachments/assets/3bca072c-7dfa-47e3-ba24-ce6b26cdcbf1)
-
+![ai_img1](https://github.com/user-attachments/assets/c03981c4-27a2-4e92-84f9-828a009ae803)
